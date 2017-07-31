@@ -11,6 +11,9 @@
             <li>
                 <a data-menu="service_portal" href="#">Service Portal</a>
                 <a data-menu="help_and_doc" href="#">Help and Doc</a>
+                <a data-menu="talkus" href="#">
+                    <i class="fa fa-commenting"/> Talkus
+                </a>
             </li>
         </t>
     </t>

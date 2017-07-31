@@ -20,5 +20,8 @@ UserMenu.include({
                 window.open('https://www.adhoc.com.ar/doc/624/624/' + dbuuid + '/' + session.uid, '_blank');
             });            
         },
+        on_menu_talkus: function() {
+            talkus('open');
+        },
     });
 });
